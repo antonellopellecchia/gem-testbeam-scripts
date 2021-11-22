@@ -1,6 +1,12 @@
 ## Requirements
 
-Install Poetry in your user page, then log out and login again.
+Install [Poetry](https://python-poetry.org/docs/) in your user folder:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+```
+
+Then log out and log in again.
 
 ```bash
 git clone git@github.com:antonellopellecchia/gem-testbeam-scripts.git
