@@ -1,0 +1,1 @@
+scl enable rh-python38 bash
